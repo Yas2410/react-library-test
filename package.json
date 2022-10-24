@@ -2,8 +2,8 @@
   "name": "@yas2410/test-react-library",
   "version": "0.1.0",
   "private": false,
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/TestInput.js",
+  "module": "dist/TestInput.js",
   "files": [
     "dist",
     "README.md"
